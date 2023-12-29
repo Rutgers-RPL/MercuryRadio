@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/satsw/!svn/ver/10735/projects/cc120x_app_ex/trunk/source/apps/cc120x_easy_link
+END
+cc120x_easy_link_reg_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/satsw/!svn/ver/10720/projects/cc120x_app_ex/trunk/source/apps/cc120x_easy_link/cc120x_easy_link_reg_config.h
+END
+cc120x_easy_link_rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/satsw/!svn/ver/10735/projects/cc120x_app_ex/trunk/source/apps/cc120x_easy_link/cc120x_easy_link_rx.c
+END
+cc120x_easy_link_tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/satsw/!svn/ver/10735/projects/cc120x_app_ex/trunk/source/apps/cc120x_easy_link/cc120x_easy_link_tx.c
+END

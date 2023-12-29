@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/satsw/!svn/ver/10740/projects/cc120x_app_ex/trunk/source/apps/cc120x_smartpreamble
+END
+cc120x_smartpreamble_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/satsw/!svn/ver/10740/projects/cc120x_app_ex/trunk/source/apps/cc120x_smartpreamble/cc120x_smartpreamble_util.h
+END
+cc120x_smartpreamble_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/satsw/!svn/ver/10740/projects/cc120x_app_ex/trunk/source/apps/cc120x_smartpreamble/cc120x_smartpreamble_settings.h
+END
+cc120x_smartpreamble_reg_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/satsw/!svn/ver/10740/projects/cc120x_app_ex/trunk/source/apps/cc120x_smartpreamble/cc120x_smartpreamble_reg_config.h
+END
+cc120x_smartpreamble_rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/satsw/!svn/ver/10740/projects/cc120x_app_ex/trunk/source/apps/cc120x_smartpreamble/cc120x_smartpreamble_rx.c
+END
+cc120x_smartpreamble_tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/satsw/!svn/ver/10740/projects/cc120x_app_ex/trunk/source/apps/cc120x_smartpreamble/cc120x_smartpreamble_tx.c
+END
+cc120x_smartpreamble_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/satsw/!svn/ver/10740/projects/cc120x_app_ex/trunk/source/apps/cc120x_smartpreamble/cc120x_smartpreamble_util.c
+END

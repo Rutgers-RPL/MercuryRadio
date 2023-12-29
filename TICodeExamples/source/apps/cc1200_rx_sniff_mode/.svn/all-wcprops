@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/satsw/!svn/ver/10737/projects/cc120x_app_ex/trunk/source/apps/cc1200_rx_sniff_mode
+END
+cc1200_rx_sniff_mode_reg_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/satsw/!svn/ver/10737/projects/cc120x_app_ex/trunk/source/apps/cc1200_rx_sniff_mode/cc1200_rx_sniff_mode_reg_config.h
+END
+cc1200_rx_sniff_mode_rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/satsw/!svn/ver/10737/projects/cc120x_app_ex/trunk/source/apps/cc1200_rx_sniff_mode/cc1200_rx_sniff_mode_rx.c
+END
+cc1200_rx_sniff_mode_tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/satsw/!svn/ver/10737/projects/cc120x_app_ex/trunk/source/apps/cc1200_rx_sniff_mode/cc1200_rx_sniff_mode_tx.c
+END
